@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @warm-bey
+- 🌱 I’m from Chia 
+- 👋 I am currently a middle school student
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
 - 📫 My email is kwd1596414@163.com
